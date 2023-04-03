@@ -1,6 +1,6 @@
 console.log("This repl contains code for ultimate javascript")
-let a  = 67
+let a = 67
 console.log(a)
 
-a = "harry"
+a = "Kishor Kumar Paroi"
 console.log(a)
