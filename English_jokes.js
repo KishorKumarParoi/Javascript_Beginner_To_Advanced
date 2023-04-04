@@ -2070,7 +2070,7 @@ let Jokes = [`37 Is it true that cannibals don't eat clowns because they taste f
 
     `"I don\`t miss, "said Mary.`,
 
-    `"Bark, you silly girl,"said the teacher."Bark!" "Oh all right then,"said Mary.`,
+    `"Bark, you silly girl,"said the teacher."Barkkk!" "Oh all right then,"said Mary.`,
 
     `"Woof-Woof!"`,
 
