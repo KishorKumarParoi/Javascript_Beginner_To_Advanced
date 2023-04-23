@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: lime;
+}
+
+#time{
+  color: blue;
+  text-align: center;
+  font-size: 20px;
+  background-color: lightgoldenrodyellow;
+  width: 600px;
+  height: 60px;
+  margin: 0 auto;
+  padding-top: 10px
+}
